@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Navid</h1>
+<h1 align="center">Hi 👋, I'm Navid Tanzim</h1>
 <h3 align="center">An AI/ML enthusiast on a journey from fundamentals to real-world projects</h3>
 
 <img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
@@ -15,7 +15,7 @@
 - 🌱 Exploring **Python, NumPy, Pandas, Scikit-learn & Deep Learning**
 - 💬 Ask me about **Python, ML fundamentals, DSA**
 - 📫 How to reach me: **navidtanzim2@gmail.com.com**
-- ⚡ Fun fact: ****
+- ⚡ Fun fact: **I comment my code... sometimes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,7 +46,7 @@
 | Programming | Python, JavaScript |
 | Data Handling | NumPy, Pandas |
 | ML Basics | Scikit-learn |
-| Deep Learning | PyTorch / TensorFlow *(pick the one you're learning)* |
+| Deep Learning | PyTorch, TensorFlow|
 | Practice | DSA, LeetCode |
 
 <br>
@@ -58,12 +58,3 @@
 </div>
 
 <br>
-<hr>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="Activity Graph" />
-
-<br>
-
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
