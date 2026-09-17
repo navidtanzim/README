@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Navid Tanzim</h1>
+<h1 align="center">Hi 👋, I'm Navid</h1>
 <h3 align="center">An AI/ML enthusiast on a journey from fundamentals to real-world projects</h3>
 
 <img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
