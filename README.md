@@ -9,8 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navidtanzim&label=Profile%20views&color=0e75b6&style=flat" alt="navidtanzim" /> </p>
 
-- 🔭 I'm currently learning **Artificial Intelligence & Machine Learning**
-- 🌱 Exploring **Python, NumPy, Pandas, Scikit-learn & Deep Learning**
+- 🔭 I'm currently learning **AI & ML**
 - 💬 Ask me about **Python, ML fundamentals, DSA**
 - 📫 How to reach me: **navidtanzim2@gmail.com**
 - ⚡ Fun fact: **I comment my code... sometimes**
@@ -49,13 +48,4 @@
 
 <br>
 
-## 📈 GitHub Stats
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=navidtanzim&show_icons=true&theme=highcontrast" alt="GitHub Stats" style="height: 190px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navidtanzim&theme=highcontrast" alt="GitHub Streak Stats" style="height: 190px;" />
-</div>
 
-<br>
-<hr>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=navidtanzim&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="Activity Graph" />
