@@ -7,6 +7,7 @@
 
 <img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
+align="left"> <img src="https://komarev.com/ghpvc/?username=navidtanzim&label=Profile%20views&color=0e75b6&style=flat" alt="navidtanzim" /> </p>
 
 - 🔭 I'm currently learning **Artificial Intelligence & Machine Learning**
 - 🌱 Exploring **Python, NumPy, Pandas, Scikit-learn & Deep Learning**
